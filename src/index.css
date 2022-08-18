@@ -4,7 +4,7 @@
 
 body {
   font-family: "Karla", sans-serif;
-  background-image: url("./public/images/wallpaper.jpg");
+  background-image: url(./wallpaper.jpg);
   margin: 0;
 }
 

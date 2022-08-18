@@ -4,11 +4,11 @@ export default function Header() {
     return (
         <header className="header">
             <img 
-                src="./public/images/meme.jpg" 
+                src="./src/components/meme.jpg" 
                 className="header--image"
             />
             <h2 className="header--title">Meme Generator</h2>
-            <h4 className="header--project">React Course - Project 3</h4>
+            <h4 className="header--project">React - Project 8</h4>
         </header>
     )
 }
